@@ -1,0 +1,55 @@
+﻿body{
+    border-radius: 50px;
+background: #0c1979;
+box-shadow:  20px 20px 60px #0a1567,
+             -20px -20px 60px #0e1d8b;
+}
+
+* {
+    color: whitesmoke;
+}
+
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+#ladoA{
+    text-align: center;
+}
+
+#ladoB{
+    text-align: right;
+}
+
+#detalhe{
+    text-align: center;
+}
+
+#caixa{
+    text-align: left;
+    padding-left: 20px;
+    
+
+   
+}
+
+
+
+#lista1{
+    list-style: none;
+    
+}
+
+#campo{
+
+    color: black
+}
+
+footer{
+    text-align: center;
+}
